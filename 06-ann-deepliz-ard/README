@@ -1,0 +1,12 @@
+==============================
+Change Keras backend to Theano
+==============================
+
+Configuration file location: /home/user/.keras 
+
+{
+"image_data_format": "channels_first",
+"epsilon": 1e-07,
+"floatx": "float32",
+"backend": "theano"
+}
