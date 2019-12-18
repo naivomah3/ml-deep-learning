@@ -1,4 +1,4 @@
 # Transition towards Data Science
-A repository for practical data science algorithms and use cases during my transition towards DS. 
+A repository for practical data science algorithms and use cases I have faced along my transition towards DS. 
 
 
